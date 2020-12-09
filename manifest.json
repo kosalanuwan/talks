@@ -1,0 +1,23 @@
+
+{
+  "short_name": "talks",
+  "name": "talks",
+  "description": "&lt;a href=\&quot;https://kosalanuwan.github.io\&quot;&gt;&lt;span&gt;@&lt;/span&gt;kosalanuwan&lt;/a&gt;'s sporadic tech talks and notes used to be just a folder in Dropbox.",
+  "icons": [
+    {
+      "src": "/talks/splash-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "/talks/favicon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "/talks/",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "/talks/",
+  "theme_color": "#ffffff"
+}
