@@ -6,7 +6,7 @@ self.addEventListener("install", function(e) {
   e.waitUntil(
     caches.open(CACHE_NAME).then(function(cache) {
       return cache.addAll([
-        "/talks/assets/css/main.css?202012091326",
+        "/talks/assets/css/main.css?202012110504",
         "/talks/"
       ]);
     })
